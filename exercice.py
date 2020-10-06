@@ -10,7 +10,7 @@ def Volume_masse(a, b, c, masse_volumique):
     volume = 4/(3*math.pi*a*b*c)
     masse = masse_volumique* volume
 
-    return volume, mass
+    return volume, masse
 
 
 if __name__ == '__main__':
