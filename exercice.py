@@ -6,7 +6,7 @@ import math
 
 
 # TODO: Définissez vos fonction ici
-def Volume_masse(a,)
+def Volume_masse(a, b, c, )
 
 
 if __name__ == '__main__':
